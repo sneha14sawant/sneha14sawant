@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sneha Sawant </h1>
-<h3 align="center"> Data Science Enthusiast</h3>
+<h3 align="center"> Data Science Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenplNTAyZjF3Y3ZwbjVjMnI0Z3YzbGprZzNuNG4xbmFpMG1md250ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
 
 You can reach me at 📧 **sneha14sawant@gmail.com**
